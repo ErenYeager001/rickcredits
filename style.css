@@ -1,0 +1,21 @@
+img {
+  object-fit: none;
+}
+h1 {
+  font-family: Verdana;
+  color: yellow;
+  background-color: blue;
+  border-radius: 10px;
+}
+body{
+  background-color: rgb(0, 0, 0);
+}
+button{
+  background-color: darkorange;
+  padding: 15px 32px;
+  color: black;
+  font-size: x-large;
+  border-radius: 7mm;
+  border-color: aliceblue;
+  border-width: 0.1cm;
+}
