@@ -1,5 +1,6 @@
 img {
-  object-fit: none;
+  max-width: 100%;
+  height: auto;
 }
 h1 {
   font-family: Verdana;
